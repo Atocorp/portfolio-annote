@@ -13,7 +13,7 @@ expositions:
 
 ## Description
 
-Installation interactive permettant de dessiner avec de l'eau sur une surface lumineuse.
+Installation interactive permettant de dessiner avec de l'eau sur une surface lumineuse. inspiré de la pratique du Dishu en Chine, Waterlight Graffiti pose la question de la trace d'un message à l'heure des réseau sociaux. 
 
 ## Concepts liés
 
@@ -25,7 +25,6 @@ Installation interactive permettant de dessiner avec de l'eau sur une surface lu
 ## Questions
 
 Pourquoi les visiteurs dessinent-ils spontanément ?
-
 Comment une interface devient-elle un espace social ?
 [[Comment la transparence de l'interface libère-t-elle le corps ?]]
 [[Comment réintroduire de l'enchantement dans une interaction déjà maîtrisée ?]]
@@ -33,11 +32,11 @@ Comment une interface devient-elle un espace social ?
 
 ## Notes
 
-...
+l'intention première du projet waterlight graffiti était de créer un matériaux nouveau pour l'architecture et l'espace urbain. 
 
 ## Références
 
-...
+dishu 
 
 ## Médias
 
