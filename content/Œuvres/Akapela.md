@@ -33,6 +33,10 @@ Comment créer des interactions compétitives sans boutons ni écrans tactiles ?
 Comment encourager l'expressivité vocale chez des publics non musiciens ?
 [[Comment le geste corporel peut-il remplacer le bouton ?]]
 
+## Références
+
+...
+
 ## Médias
 
 ![[Médias/Akapela/akapela_1.jpeg]]

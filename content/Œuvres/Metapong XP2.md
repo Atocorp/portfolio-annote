@@ -15,7 +15,6 @@ Créé en collaboration avec Manuel Braun.
 [[Mécanique]]
 [[Corps comme interface]]
 [[Détournement]]
-[[Sport]]
 [[Incertitude]]
 
 ## Questions
@@ -26,6 +25,10 @@ Quand une règle change en cours de jeu, comment les joueurs s'adaptent-ils ?
 
 Peut-on créer de l'équité dans un jeu dont les règles sont instables ?
 [[Comment le jeu résiste-t-il à l'ennui de la maîtrise ?]]
+
+## Références
+
+[[Ping-pong]]
 
 ## Médias
 

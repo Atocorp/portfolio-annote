@@ -32,6 +32,12 @@ Qu'est-ce que le hasard apporte à un jeu compétitif ?
 Comment le Pachinko interroge-t-il les mécaniques du jeu vidéo occidental ?
 [[Comment le jeu résiste-t-il à l'ennui de la maîtrise ?]]
 
+## Références
+
+[[Homo Ludens]]
+[[Pachinko]]
+[[Street Fighter]]
+
 ## Médias
 
 ![[Médias/Patch&KO/patchKO_1.jpg]]

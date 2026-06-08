@@ -28,6 +28,10 @@ Qu'est-ce que le progrès qui prend son temps ?
 [[Comment la transparence de l'interface libère-t-elle le corps ?]]
 [[Comment la contrainte écologique devient-elle une contrainte créative ?]]
 
+## Références
+
+[[Illich]]
+
 ## Médias
 
 ![[Médias/Trace of life/traceLife_1.jpg]]

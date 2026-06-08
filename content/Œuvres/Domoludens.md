@@ -39,6 +39,10 @@ Qu'est-ce qu'une domotique ludique plutôt que fonctionnelle ?
 [[Où se situe la frontière entre outil et jouet ?]]
 [[Comment un matériau quotidien peut-il devenir une interface de jeu ?]]
 
+## Références
+
+[[Homo Ludens]]
+
 ## Médias
 
 ![[Médias/Domoludens/domoludens_1.jpg]]

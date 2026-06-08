@@ -33,6 +33,10 @@ Comment une représentation historique peut-elle être réactivée par la techno
 [[Comment réintroduire de l'enchantement dans une interaction déjà maîtrisée ?]]
 [[Comment un matériau quotidien peut-il devenir une interface de jeu ?]]
 
+## Références
+
+[[Hokusai]]
+
 ## Médias
 
 ![[Médias/WiiNami/wiinami_1.jpg]]

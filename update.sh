@@ -7,7 +7,7 @@ CONTENT_DIR="$SCRIPT_DIR/content"
 
 echo "==> Copie des fichiers du vault..."
 
-FOLDERS=("Œuvres" "Concepts" "Questions" "Références" "Médias")
+FOLDERS=("Œuvres" "Concepts" "Questions" "Références" "Médias" "Prototypes")
 
 for folder in "${FOLDERS[@]}"; do
     src="$VAULT_DIR/$folder"

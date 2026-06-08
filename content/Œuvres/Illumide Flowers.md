@@ -10,10 +10,9 @@ Créé avec Jordan McRae et Clorinde Durand.
 
 [[Fleur]]
 [[Lumière]]
-[[Parfum]]
+[[Odeur]]
 [[Capteur]]
 [[Objet]]
-[[Hermès]]
 [[Electronics textiles]]
 
 ## Questions
@@ -24,6 +23,10 @@ Que se passe-t-il quand un sens (l'odorat) en déclenche un autre (la vue) ?
 
 Comment intégrer l'électronique dans un objet délicat et organique ?
 [[Où se situe la frontière entre outil et jouet ?]]
+
+## Références
+
+...
 
 ## Médias
 

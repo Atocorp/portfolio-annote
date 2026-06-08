@@ -31,6 +31,10 @@ Le jeu vidéo a-t-il sa place dans l'espace public permanent ?
 Comment changer la posture du joueur en changeant le support ?
 
 Qu'est-ce que rendre un jeu vidéo aussi durable qu'une table de ping-pong ?
+## Références
+
+...
+
 ## Médias
 
 ![[Médias/Arcade concrete/arcadeConcrete_1.jpg]]

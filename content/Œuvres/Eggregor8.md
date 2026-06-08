@@ -21,7 +21,7 @@ Créé avec Manuel Braun.
 
 [[Coopération]]
 [[Jeu collectif]]
-[[Manette partagée]]
+[[Manette]]
 [[Décision collective]]
 [[Intelligence collective]]
 [[Pacman]]
@@ -37,6 +37,11 @@ La coopération est-elle une garantie de performance ou une source d'indécision
 [[Comment le jeu résiste-t-il à l'ennui de la maîtrise ?]]
 [[Comment transformer le joueur en acteur involontaire ?]]
 [[Quel rôle joue le regard des autres dans l'expérience interactive ?]]
+
+## Références
+
+[[Homo Ludens]]
+[[Pacman]]
 
 ## Médias
 

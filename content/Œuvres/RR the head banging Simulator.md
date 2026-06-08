@@ -26,6 +26,7 @@ L'objectif est simplement de porter une perruque et de secouer violemment la tê
 [[Rock]]
 [[Voix]]
 [[Eniarof]]
+[[Regard]]
 
 ## Questions
 
@@ -38,6 +39,10 @@ Comment une perruque peut-elle transformer l'expérience du joueur ?
 [[Comment la transparence de l'interface libère-t-elle le corps ?]]
 [[Comment transformer le joueur en acteur involontaire ?]]
 [[Quel rôle joue le regard des autres dans l'expérience interactive ?]]
+
+## Références
+
+...
 
 ## Médias
 

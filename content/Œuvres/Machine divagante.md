@@ -14,7 +14,7 @@ Cette curieuse interface de jeu procure de la joie à ceux qui la manipulent, ma
 [[Hasard]]
 [[Design]]
 [[Détournement]]
-[[Autonomie de la machine]]
+[[Autonomie]]
 
 ## Questions
 
@@ -27,6 +27,10 @@ Où se situe la frontière entre outil et jouet ?
 Comment la désobéissance d'un objet modifie-t-elle la relation entre l'humain et la machine ?
 [[Comment le jeu résiste-t-il à l'ennui de la maîtrise ?]]
 [[Où se situe la frontière entre outil et jouet ?]]
+
+## Références
+
+...
 
 ## Médias
 

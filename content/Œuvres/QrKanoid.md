@@ -25,6 +25,10 @@ Peut-on créer une tension entre curiosité intellectuelle et plaisir du jeu ?
 Qu'est-ce que cela révèle de la façon dont on consomme les archives artistiques ?
 [[Comment le jeu résiste-t-il à l'ennui de la maîtrise ?]]
 
+## Références
+
+...
+
 ## Médias
 
 ![[Médias/QrKanoid/qrkanoid_1.jpg]]

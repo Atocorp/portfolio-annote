@@ -24,6 +24,7 @@ Créé avec Manuel Braun.
 [[Danse]]
 [[Détournement]]
 [[Eniarof]]
+[[Regard]]
 
 ## Questions
 
@@ -35,6 +36,10 @@ Comment redéfinir l'espace du jeu vidéo en changeant l'interface ?
 [[Comment le geste corporel peut-il remplacer le bouton ?]]
 [[Comment transformer le joueur en acteur involontaire ?]]
 [[Quel rôle joue le regard des autres dans l'expérience interactive ?]]
+
+## Références
+
+...
 
 ## Médias
 

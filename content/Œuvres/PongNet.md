@@ -34,6 +34,12 @@ Que révèle l'invisible — la balle sur l'autre écran — de la nature d'Inte
 Comment le jeu peut-il être une métaphore pédagogique ?
 [[Comment réintroduire de l'enchantement dans une interaction déjà maîtrisée ?]]
 
+## Références
+
+[[Pong]]
+[[Gameboy]]
+[[Ping-pong]]
+
 ## Médias
 
 ![[Médias/PongNet/pongnet_1.jpg]]

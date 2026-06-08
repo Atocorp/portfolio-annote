@@ -31,6 +31,10 @@ Un joystick qui joue sans joueur ni écran a-t-il encore du sens ?
 [[Comment réintroduire de l'enchantement dans une interaction déjà maîtrisée ?]]
 [[Où se situe la frontière entre outil et jouet ?]]
 
+## Références
+
+[[Duchamp]]
+
 ## Médias
 
 ![[Médias/Ghostpad/ghostpad_1.jpg]]

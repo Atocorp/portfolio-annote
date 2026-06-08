@@ -26,6 +26,7 @@ La difficulté est volontairement élevée afin de pousser les participants à s
 [[Participation]]
 [[Inconfort]]
 [[Catharsis]]
+[[Regard]]
 
 ## Questions
 
@@ -37,6 +38,10 @@ Comment transformer un acte intime en expérience collective ?
 [[Comment le geste corporel peut-il remplacer le bouton ?]]
 [[Comment transformer le joueur en acteur involontaire ?]]
 [[Quel rôle joue le regard des autres dans l'expérience interactive ?]]
+
+## Références
+
+...
 
 ## Médias
 

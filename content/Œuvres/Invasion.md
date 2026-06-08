@@ -28,6 +28,10 @@ Qu'est-ce que l'invasion comme geste artistique ?
 Comment un avatar numérique (Space Invaders) prend-il corps dans un espace physique ?
 [[Quel rôle joue le regard des autres dans l'expérience interactive ?]]
 
+## Références
+
+[[Space Invaders]]
+
 ## Médias
 
 ![[Médias/Invasion/invasion_1.jpg]]

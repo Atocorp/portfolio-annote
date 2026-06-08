@@ -38,6 +38,10 @@ Comment favoriser une création collective spontanée ?
 ## Historique
 
 Le projet est initié lors d'une résidence à Auckland en Nouvelle-Zélande autour des relations entre son, couleur et dessin.
+## Références
+
+...
+
 ## Médias
 
 ![[Médias/Sonoscriptum/sonoscriptum_1.gif]]

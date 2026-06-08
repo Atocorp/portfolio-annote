@@ -21,6 +21,7 @@ Créé avec Manuel Braun.
 [[Performance]]
 [[Gameplay]]
 [[Inconnus]]
+[[Regard]]
 
 ## Questions
 
@@ -33,6 +34,10 @@ Le jeu peut-il créer de la confiance entre des personnes qui ne se connaissent 
 [[Comment transformer le joueur en acteur involontaire ?]]
 [[Quel rôle joue le regard des autres dans l'expérience interactive ?]]
 [[Comment un matériau quotidien peut-il devenir une interface de jeu ?]]
+
+## Références
+
+[[Homo Ludens]]
 
 ## Médias
 

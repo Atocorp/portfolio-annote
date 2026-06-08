@@ -16,7 +16,6 @@ Créé avec Erational.
 [[Tuning]]
 [[Corps comme interface]]
 [[Détournement]]
-[[Lowrider]]
 [[Interface]]
 [[Humour]]
 [[Sous-cultures]]
@@ -30,6 +29,10 @@ Comment le corps entier peut-il devenir une manette de jeu ?
 Qu'est-ce que l'humour comme stratégie dans l'art interactif ?
 [[Où se situe la frontière entre outil et jouet ?]]
 [[Comment un matériau quotidien peut-il devenir une interface de jeu ?]]
+
+## Références
+
+...
 
 ## Médias
 

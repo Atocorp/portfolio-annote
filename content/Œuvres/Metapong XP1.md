@@ -15,7 +15,6 @@ Créé en collaboration avec Manuel Braun. Développement technique : Thomas Dem
 [[Mécanique]]
 [[Corps comme interface]]
 [[Détournement]]
-[[Sport]]
 [[Comportement animal]]
 [[Eniarof]]
 
@@ -27,6 +26,10 @@ Comment un objet inerte peut-il sembler vivant ?
 
 Jusqu'à quel point peut-on transformer les règles d'un sport avant qu'il devienne autre chose ?
 [[Comment le jeu résiste-t-il à l'ennui de la maîtrise ?]]
+
+## Références
+
+[[Ping-pong]]
 
 ## Médias
 

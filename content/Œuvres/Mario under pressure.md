@@ -15,7 +15,6 @@ Inspiré d'un texte d'Antonio Damasio, neuroscientifique, sur la dextérité du 
 [[Corps comme interface]]
 [[Pression]]
 [[Interface]]
-[[Pouce]]
 [[Damasio]]
 [[Jeu vidéo]]
 [[Neurosciences]]
@@ -28,6 +27,10 @@ Peut-on jouer à un jeu complet avec un seul doigt et un seul type d'input ?
 
 La simplification extrême de l'interface change-t-elle l'expérience du jeu ?
 [[Comment le geste corporel peut-il remplacer le bouton ?]]
+
+## Références
+
+[[Damasio]]
 
 ## Médias
 

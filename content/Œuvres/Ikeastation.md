@@ -28,6 +28,10 @@ Comment le détournement d'un objet familier modifie-t-il notre perception de ce
 [[Où se situe la frontière entre outil et jouet ?]]
 [[Comment un matériau quotidien peut-il devenir une interface de jeu ?]]
 
+## Références
+
+...
+
 ## Médias
 
 ![[Médias/Ikeastation/ikeastation_1.jpg]]

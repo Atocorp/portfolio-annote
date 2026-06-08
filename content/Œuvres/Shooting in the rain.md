@@ -35,6 +35,10 @@ Comment un objet du quotidien peut-il devenir une manette ?
 [[Comment réintroduire de l'enchantement dans une interaction déjà maîtrisée ?]]
 [[Comment un matériau quotidien peut-il devenir une interface de jeu ?]]
 
+## Références
+
+...
+
 ## Médias
 
 ![[Médias/Shooting in the rain/shootingRain_1.png]]

@@ -30,6 +30,10 @@ Que se passe-t-il quand faire une image demande du temps passé ensemble plutôt
 [[Comment un matériau quotidien peut-il devenir une interface de jeu ?]]
 [[Comment la contrainte écologique devient-elle une contrainte créative ?]]
 
+## Références
+
+...
+
 ## Médias
 
 ![[Médias/Koloropong/koloropong_1.png]]

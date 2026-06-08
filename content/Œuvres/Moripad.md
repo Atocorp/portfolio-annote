@@ -33,6 +33,10 @@ Comment l'impossibilité d'interagir change-t-elle notre rapport à un objet ?
 [[Quel rôle joue le regard des autres dans l'expérience interactive ?]]
 [[Où se situe la frontière entre outil et jouet ?]]
 
+## Références
+
+[[Duchamp]]
+
 ## Médias
 
 ![[Médias/Moripad/moripad_1.jpg]]

@@ -28,6 +28,11 @@ Quel discours politique peut-on construire à travers un jeu ?
 [[Comment un matériau quotidien peut-il devenir une interface de jeu ?]]
 [[Comment la contrainte écologique devient-elle une contrainte créative ?]]
 
+## Références
+
+[[Hakim Bey]]
+[[Ping-pong]]
+
 ## Médias
 
 ![[Médias/Eniagolf/eniagolf_1.jpeg]]

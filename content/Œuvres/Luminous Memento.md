@@ -18,7 +18,7 @@ Programmation : Manuel Deneu. Électronique : Alexandre Saunier et Grégoire Lau
 [[Mémoire]]
 [[Lumière]]
 [[Béton translucide]]
-[[Commémoration]]
+[[Mémoire]]
 [[Espace public]]
 [[LEDs]]
 [[Archive]]
@@ -31,6 +31,10 @@ Qu'est-ce que graver numériquement dans la pierre ?
 
 Comment faire cohabiter l'éphémère du numérique et la permanence du monument ?
 [[Comment réintroduire de l'enchantement dans une interaction déjà maîtrisée ?]]
+
+## Références
+
+...
 
 ## Médias
 

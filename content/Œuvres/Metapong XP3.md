@@ -15,7 +15,6 @@ Créé en collaboration avec Manuel Braun.
 [[Mécanique]]
 [[Corps comme interface]]
 [[Détournement]]
-[[Sport]]
 [[Eniarof]]
 
 ## Questions
@@ -26,6 +25,10 @@ Comment l'animation d'un élément du jeu modifie-t-elle le comportement du joue
 
 Qu'est-ce qui change dans l'expérience sportive quand les règles physiques sont altérées ?
 [[Comment le jeu résiste-t-il à l'ennui de la maîtrise ?]]
+
+## Références
+
+[[Ping-pong]]
 
 ## Médias
 

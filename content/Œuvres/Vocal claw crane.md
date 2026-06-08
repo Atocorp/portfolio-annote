@@ -29,6 +29,10 @@ Comment combiner le jeu numérique et un objet physique à emporter ?
 [[Comment le geste corporel peut-il remplacer le bouton ?]]
 [[Comment transformer le joueur en acteur involontaire ?]]
 
+## Références
+
+...
+
 ## Médias
 
 ![[Médias/Vocal claw crane/vocal_1.jpg]]

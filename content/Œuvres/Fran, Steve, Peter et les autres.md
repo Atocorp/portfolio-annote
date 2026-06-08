@@ -22,6 +22,7 @@ Créé en collaboration avec Alice Martins et Nicolas Tilly. 2ème prix Pulsar, 
 [[Cinéma]]
 [[Corps comme interface]]
 [[Carton]]
+[[Regard]]
 
 ## Questions
 
@@ -32,6 +33,10 @@ Comment le corps du spectateur peut-il devenir acteur d'une installation ?
 Comment passer de l'éblouissement au cauchemar dans un même espace ?
 [[Comment transformer le joueur en acteur involontaire ?]]
 [[Quel rôle joue le regard des autres dans l'expérience interactive ?]]
+
+## Références
+
+...
 
 ## Médias
 

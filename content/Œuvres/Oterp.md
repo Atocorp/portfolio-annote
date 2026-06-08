@@ -30,6 +30,10 @@ Comment notre position dans l'espace peut-elle devenir une interface musicale ?
 Qu'est-ce que jouer dans l'espace réel plutôt que dans un espace fictif ?
 
 Comment le jeu peut-il modifier notre perception de nos déplacements quotidiens ?
+## Références
+
+...
+
 ## Médias
 
 ![[Médias/Oterp/oterp_1.jpg]]

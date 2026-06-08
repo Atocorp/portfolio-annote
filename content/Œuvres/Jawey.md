@@ -32,6 +32,10 @@ Comment un objet de rue (la calandre dentaire) peut-il rencontrer une référenc
 [[Comment réintroduire de l'enchantement dans une interaction déjà maîtrisée ?]]
 [[Où se situe la frontière entre outil et jouet ?]]
 
+## Références
+
+...
+
 ## Médias
 
 ![[Médias/Jawey/jawey_1.jpg]]

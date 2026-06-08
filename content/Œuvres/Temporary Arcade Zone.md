@@ -34,12 +34,14 @@ Ce projet est un hommage au livre T.A.Z. : The Temporary Autonomous Zone de Haki
 
 Comment l'arcade comme forme peut-elle être réinterprétée avec des matériaux de récupération ?
 
-Qu'est-ce que la zone autonome temporaire appliquée au jeu vidéo ?
-
 Comment la précarité du matériau change-t-elle notre rapport à l'objet ?
 [[Où se situe la frontière entre outil et jouet ?]]
 [[Comment un matériau quotidien peut-il devenir une interface de jeu ?]]
 [[Comment la contrainte écologique devient-elle une contrainte créative ?]]
+
+## Références
+
+[[Hakim Bey]]
 
 ## Médias
 

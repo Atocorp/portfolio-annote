@@ -13,7 +13,6 @@ Conception mobilier : Antonin Fourneau et Pierre Tignon (Hermès). Circuit : Ant
 [[Lumière]]
 [[Dessin]]
 [[Interactivité]]
-[[Luxe]]
 [[Visage]]
 [[LEDs]]
 [[Révélation]]
@@ -26,6 +25,10 @@ Comment la lumière peut-elle évoquer la féminité ?
 
 Qu'est-ce que dessiner avec de la lumière sur une surface vivante ?
 [[Comment réintroduire de l'enchantement dans une interaction déjà maîtrisée ?]]
+
+## Références
+
+...
 
 ## Médias
 
